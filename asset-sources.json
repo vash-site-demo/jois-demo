@@ -26,5 +26,12 @@
     "author": "jois_nails_club",
     "checkedAt": "2026-11-16",
     "kind": "card-photo"
+  },
+  {
+    "file": "light-pedicure.webp",
+    "source": "local project: nogti-demo/assets/pedicure.webp",
+    "checkedAt": "2026-11-16",
+    "kind": "illustrative-asset",
+    "note": "Existing project asset; original provenance unverified. Not represented as Jois work."
   }
 ]
