@@ -129,5 +129,33 @@
     "source": "https://avatars.mds.yandex.net/get-sprav-products/944742/2a00000195b906e511da4aecfc86a87f3a83/orig",
     "kind": "card-product-photo",
     "checkedAt": "2026-11-16"
+  },
+  {
+    "file": "lime-manicure.jpg",
+    "source": "https://avatars.mds.yandex.net/get-altay/8072793/2a0000018721d28d40b8d7cb32832626659a/XXXL",
+    "author": "jois_nails_club",
+    "checkedAt": "2026-11-16",
+    "kind": "card-photo"
+  },
+  {
+    "file": "gold-manicure.jpg",
+    "source": "https://avatars.mds.yandex.net/get-altay/5554141/2a0000018354a9f237cf916ada3ec79a758b/XXXL",
+    "author": "jois_nails_club",
+    "checkedAt": "2026-11-16",
+    "kind": "card-photo"
+  },
+  {
+    "file": "white-art-manicure.jpg",
+    "source": "https://avatars.mds.yandex.net/get-altay/7668046/2a0000018354aa14b8581550a82d3c8b6a49/XXXL",
+    "author": "jois_nails_club",
+    "checkedAt": "2026-11-16",
+    "kind": "card-photo"
+  },
+  {
+    "file": "pastel-manicure.jpg",
+    "source": "https://avatars.mds.yandex.net/get-altay/7734890/2a00000183efc90e1bba0192ab37c773ab05/XXXL",
+    "author": "jois_nails_club",
+    "checkedAt": "2026-11-16",
+    "kind": "card-photo"
   }
 ]

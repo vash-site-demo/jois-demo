@@ -59,3 +59,23 @@ if (rail) {
   }
   requestAnimationFrame(tick);
 }
+
+const gallery = document.querySelector('.gallery');
+if (gallery) {
+  const prev = document.querySelector('.gallery-prev');
+  const next = document.querySelector('.gallery-next');
+  const update = () => {
+    prev.disabled = gallery.scrollLeft <= 2;
+    next.disabled = gallery.scrollLeft >= gallery.scrollWidth - gallery.clientWidth - 2;
+  };
+  const step = direction => {
+    const card = gallery.querySelector('.work');
+    const gap = parseFloat(getComputedStyle(gallery).gap) || 0;
+    gallery.scrollBy({left:direction * (card.getBoundingClientRect().width + gap),behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
+  };
+  prev.addEventListener('click', () => step(-1));
+  next.addEventListener('click', () => step(1));
+  gallery.addEventListener('scroll', update, {passive:true});
+  window.addEventListener('resize', update);
+  update();
+}
