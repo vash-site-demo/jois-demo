@@ -1,0 +1,30 @@
+[
+  {
+    "file": "blue-manicure.jpg",
+    "source": "https://avatars.mds.yandex.net/get-altay/7652307/2a0000018354a8d954a407ea57acd1215940/XXXL",
+    "author": "jois_nails_club",
+    "checkedAt": "2026-11-16",
+    "kind": "card-photo"
+  },
+  {
+    "file": "pink-manicure.jpg",
+    "source": "https://avatars.mds.yandex.net/get-altay/7179902/2a00000183efc6f4ea6ce6bd76cdd429228a/XXXL",
+    "author": "jois_nails_club",
+    "checkedAt": "2026-11-16",
+    "kind": "card-photo"
+  },
+  {
+    "file": "white-pedicure.jpg",
+    "source": "https://avatars.mds.yandex.net/get-altay/6446898/2a0000018354a9689a379e0b7a10e5fdec54/XXXL",
+    "author": "jois_nails_club",
+    "checkedAt": "2026-11-16",
+    "kind": "card-photo"
+  },
+  {
+    "file": "color-manicure.jpg",
+    "source": "https://avatars.mds.yandex.net/get-altay/6382111/2a0000018354a8fe507f566de0e9df40bd2d/XXXL",
+    "author": "jois_nails_club",
+    "checkedAt": "2026-11-16",
+    "kind": "card-photo"
+  }
+]
